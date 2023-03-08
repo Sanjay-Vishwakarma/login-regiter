@@ -1,5 +1,9 @@
 /* You can add global styles to this file, and also import other style files */
 body {
     font-family: 'Shantell Sans', cursive;
-    background-color: rgb(104, 93, 80);
+    background-color: whitesmoke;
+    margin-top: 2px;
+    margin-left: 2px;
+    margin-right: 2px;
+    margin-bottom: 2px;
 }
